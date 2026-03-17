@@ -1,6 +1,7 @@
 # KwsmCTC2API データ構造・取得ガイド
 
 本プラグインは、GitHubリポジトリの `trains.json` に生の車両データを以下の形式で出力します。
+jsonのURL: https://suzumiyatrainer.github.io/kwsm-ctcapi/trains.json
 
 ## JSON 構造
 
